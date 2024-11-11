@@ -1,0 +1,1 @@
+This is an end to end ML project making use of logistic regression to classify whether a student will be placed or not with CGPA and IQ being the input cells. Hvae incorporated all necessary steps to create this ML model.
